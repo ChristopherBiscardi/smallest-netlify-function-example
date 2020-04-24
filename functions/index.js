@@ -1,3 +1,3 @@
 exports.handler = async (event, context) => {
-  return { statusCode: 200, body: "booop!" };
+  return { statusCode: 200, body: "boop!" };
 };
